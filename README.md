@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá! Seja bem vindo 
 
-<!--
-**RaulEduardo07/RaulEduardo07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Estudante em Analise e Desenvolvimento de Sistemas - IFTM
+- Programo em Java e Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![RaulEduardo07 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RaulEduardo07&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/RaulEduardo07/github-readme-stats#gh-dark-mode-only)
+[![RaulEduardo07 GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=RaulEduardo07&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/RaulEduardo07/github-readme-stats#gh-light-mode-only)
+
+ 
+
+          
+
+
+
+
