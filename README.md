@@ -28,6 +28,5 @@
           
 </div>
 
-![snake gif](https://github.com/RaulEduardo07/RaulEduardo07/blob/output/github-contribution-grid-snake.svg)
   
 
